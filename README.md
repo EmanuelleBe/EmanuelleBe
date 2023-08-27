@@ -1,11 +1,9 @@
 ### LEARNING PATH
 
-<!--
-**EmanuelleBe/EmanuelleBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crie uma cópia de cada exercício e tente resolvê-los com os conhecimentos básicos de Python.
+Em seguida abra o gabarito (exercício feito por mim) e compare as resoluções.
 
-Here are some ideas to get you started:
+Exercício 1 - operações básicas em Pyoinia
 
-- 🔭 I’m currently working on improving my Python skills
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on any project or exercises in Python
-- 💬 Ask me about my travels
+
+Exercício 2 - Criando Dicionários
